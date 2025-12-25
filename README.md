@@ -2,9 +2,9 @@
 
 ## 🚀 Features
 
-* **Safe To Use** Harmonia doesnt interfere with the client itself so its safe to use
-* **Fast** Harmonia is one of the fastest utility tools for LoL when it comes to auto accept and auto pick 
-* **Always Updated** Harmonia is checking the updates at start and auto updates when there is new one
+* **Safe To Use** Harmonia doesnt interfere with the client itself so its safe to use.
+* **Fast** Harmonia is one of the fastest utility tools for LoL when it comes to auto accept and auto pick.
+* **Always Updated** Harmonia is checking the updates at start and auto updates when there is new one.
 
 ## ⚙️ Usage
 
