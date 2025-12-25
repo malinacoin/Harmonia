@@ -21,4 +21,4 @@ Project Link: https://github.com/malinacoin/Harmonia
 
 ## ⚠️ Varg.dll
 
-This dll doesnt work, it was intended to do something but i gave up, u can create or download the file on this github repository
+This dll doesnt work, it was intended to do something but i gave up, u can create or download the file on this github repository.
