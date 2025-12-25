@@ -9,7 +9,7 @@
 ## ⚙️ Usage
 
 1.  Open the **League of Legends Client** and log in.
-2.  Run the utility:
+2.  Run the utility.
 3.  The tool will automatically detect all legends etc.
 4.  Type the legend's name you want to auto pick.
 
